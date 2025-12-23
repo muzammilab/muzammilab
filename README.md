@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Shehbaz Shaikh  
+# Hi , I'm Bedrekar Muzzammil 
 **A passionate MERN Stack Developer**
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square)](https://aquamarine-profiterole-413375.netlify.app/)  
