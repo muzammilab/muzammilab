@@ -1,18 +1,118 @@
-# 💫 About Me:
-Hi I’m a MERN Stack Developer<br><br>I’m a Final Year Computer Engineering student and full-stack developer who enjoys building real-world web applications using the MERN stack.<br><br>Tech Stack:<br>- MongoDB, Express.js, React.js, Node.js<br>- Redux Toolkit, Tailwind CSS, Bootstrap<br>- REST APIs, JWT Authentication<br>- Git & GitHub<br><br>Projects:<br>- Faculty Remuneration System --><br>- Admin & Faculty dashboards<br>- Payment calculation & management modules<br>- E-Voting Website --><br>- Admin & Voter dashboards<br>- Voter can vote only once in a election<br>- Admin cannot vote, just add candidates and start or end an election<br><br>Currently:<br>- Improving backend architecture & API design<br>- Learning DevOps & deployment for MERN apps<br>- Exploring ERP & SaaS-based systems<br><br>Let’s connect:<br>- Open to internships & junior full-stack roles<br>
+# 💫 Hi 👋, I'm Shehbaz Shaikh  
+**A passionate MERN Stack Developer**
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ bedrekar-mohammed-muzzammil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muzammilaslambedrekar@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muzammilab&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muzammilab&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilab&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square)](https://aquamarine-profiterole-413375.netlify.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-@ShaikhShehbazK-black?style=flat-square&logo=github)](https://github.com/ShaikhShehbazK)   
+![Visitors](https://komarev.com/ghpvc/?username=ShaikhShehbazK&style=flat-square&color=blue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muzammilab&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me  
+- 🎓 Final year **B.E. Computer Engineering** student  
+- 🌐 MERN Stack Developer (MongoDB, Express.js, React, Node.js)  
+- 🏗️ Currently working on **Faculty Remuneration System** (Real-world college project)  
+- 🎯 Goal: Secure a **Software Developer / MERN Stack role**  
+- ✨ Building projects that **solve real-world problems & scalable web application**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 Faculty Remuneration System (MERN Stack)
+A full-stack web application developed for my college to automate faculty workload and payment management.
+
+**Key Highlights:**
+- Role-based authentication (Admin & Faculty)
+- Redux Toolkit for scalable global state management
+- Automated workload and remuneration calculation
+- Real-time UI updates and secure APIs
+
+🔗 **GitHub:** https://github.com/ShaikhShehbazK/Faculty-Remuneration-RCOE  
+🌐 **Live Demo:** https://remune-track.netlify.app/
+
+---
+
+### 🗳️ E-Voting Platform (MERN Stack)
+A secure online voting system with real-time monitoring and admin controls.
+
+**Key Highlights:**
+- JWT-based authentication with Admin & Voter roles
+- Admin dashboard for candidate management
+- Real-time voting statistics
+- Cloudinary integration for image storage
+
+🔗 **GitHub:** https://github.com/ShaikhShehbazK/E-Voting-Website  
+🌐 **Live Demo:** https://jwtbased-website-e-voting.netlify.app/
+
+---
+
+# 💻 Tech Stack:
+
+### Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+**Tools & Devops:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Others:**
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+**Additional Skills:**  
+![Context API](https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react)  
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehbaz-shaikh-087734322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbazshaikh485@gmail.com) 
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShaikhShehbazK&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShaikhShehbazK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhShehbazK&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShaikhShehbazK&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=ShaikhShehbazK&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 🌍 Let’s Connect  
+- 🌐 [Portfolio Website](https://aquamarine-profiterole-413375.netlify.app/)  
+- 🐙 [GitHub Profile](https://github.com/ShaikhShehbazK)
+- 📧 **Email:** [shahbazshaikh485@gmail.com](mailto:shahbazshaikh485@gmail.com)  
+- 📱 **Mobile:** [+91 9869379805](tel:+919869379805)   
+
+
+⭐️ *If you like my work, consider giving a star to my repositories!* ⭐️
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Check above I have created
