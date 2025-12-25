@@ -1,9 +1,9 @@
 # Hi , I'm Bedrekar Muzzammil 
 **A passionate MERN Stack Developer**
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square)](https://aquamarine-profiterole-413375.netlify.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-@ShaikhShehbazK-black?style=flat-square&logo=github)](https://github.com/ShaikhShehbazK)   
-![Visitors](https://komarev.com/ghpvc/?username=ShaikhShehbazK&style=flat-square&color=blue)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square)](https://bedrekarportfolio.netlify.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-@muzammilab-black?style=flat-square&logo=github)](https://github.com/muzammilab)   
+![Visitors](https://komarev.com/ghpvc/?username=muzammilab&style=flat-square&color=blue)
 
 ---
 
