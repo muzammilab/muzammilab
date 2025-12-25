@@ -10,19 +10,19 @@
 ## 🚀 About Me  
 - 🎓 Final year **B.E. Computer Engineering** student  
 - 🌐 MERN Stack Developer (MongoDB, Express.js, React, Node.js)  
-- 🏗️ Currently working on **Faculty Remuneration System** (Real-world college project)  
+- 🏗️ Currently working on **Remune Track - A Faculty Remuneration System** (Real-world college project)  
 - 🎯 Goal: Secure a **Software Developer / MERN Stack role**  
 - ✨ Building projects that **solve real-world problems & scalable web application**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏫 Faculty Remuneration System (MERN Stack)
+### Remune Track - A Faculty Remuneration System (MERN Stack)
 A full-stack web application developed for my college to automate faculty workload and payment management.
 
 **Key Highlights:**
-- Role-based authentication (Admin & Faculty)
+- Role-based authentication (RBAC) for two roles Admin & Faculty
 - Redux Toolkit for scalable global state management
 - Automated workload and remuneration calculation
 - Real-time UI updates and secure APIs
@@ -32,21 +32,22 @@ A full-stack web application developed for my college to automate faculty worklo
 
 ---
 
-### 🗳️ E-Voting Platform (MERN Stack)
+### Electra Vote - An E-Voting Platform (MERN Stack)
 A secure online voting system with real-time monitoring and admin controls.
 
 **Key Highlights:**
 - JWT-based authentication with Admin & Voter roles
-- Admin dashboard for candidate management
+- Admin dashboard for candidate management, election management & voter management
+- Secure system that ensures admin cannot vote and voter can vote only once
 - Real-time voting statistics
-- Cloudinary integration for image storage
+- Multer integration for image storage
 
 🔗 **GitHub:** https://github.com/ShaikhShehbazK/E-Voting-Website  
-🌐 **Live Demo:** https://jwtbased-website-e-voting.netlify.app/
+🌐 **Live Demo:** https://electravotes.netlify.app/
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ### Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
