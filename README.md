@@ -27,7 +27,7 @@ A full-stack web application developed for my college to automate faculty worklo
 - Automated workload and remuneration calculation
 - Real-time UI updates and secure APIs
 
-🔗 **GitHub:** https://github.com/ShaikhShehbazK/Faculty-Remuneration-RCOE  
+🔗 **GitHub:** https://github.com/muzammilab/Faculty-Remuneration  
 🌐 **Live Demo:** https://remune-track.netlify.app/
 
 ---
@@ -42,7 +42,7 @@ A secure online voting system with real-time monitoring and admin controls.
 - Real-time voting statistics
 - Multer integration for image storage
 
-🔗 **GitHub:** https://github.com/ShaikhShehbazK/E-Voting-Website  
+🔗 **GitHub:** https://github.com/muzammilab/electraVote  
 🌐 **Live Demo:** https://electravotes.netlify.app/
 
 ---
