@@ -49,14 +49,12 @@ A secure online voting system with real-time monitoring and admin controls.
 
 # Tech Stack:
 
-### Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+### Languages   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-**Frameworks & Tools:**  
+**Frameworks:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
@@ -68,7 +66,7 @@ A secure online voting system with real-time monitoring and admin controls.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 
-**Tools & Devops:**  
+**Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)  
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
@@ -87,33 +85,29 @@ A secure online voting system with real-time monitoring and admin controls.
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehbaz-shaikh-087734322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbazshaikh485@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedrekar-mohammed-muzzammil/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muzammilaslambedrekar@gmail.com) 
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShaikhShehbazK&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShaikhShehbazK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhShehbazK&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=muzammilab&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muzammilab&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShaikhShehbazK&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=muzammilab&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=ShaikhShehbazK&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muzammilab&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
 ## 🌍 Let’s Connect  
-- 🌐 [Portfolio Website](https://aquamarine-profiterole-413375.netlify.app/)  
-- 🐙 [GitHub Profile](https://github.com/ShaikhShehbazK)
-- 📧 **Email:** [shahbazshaikh485@gmail.com](mailto:shahbazshaikh485@gmail.com)  
-- 📱 **Mobile:** [+91 9869379805](tel:+919869379805)   
+- 🌐 [Portfolio Website](https://bedrekarportfolio.netlify.app/)  
+- 🐙 [GitHub Profile](https://github.com/muzammilab)
+- 📧 **Email:** [muzammilaslambedrekar@gmail.com](mailto:muzammilaslambedrekar@gmail.com)  
+- 📱 **Mobile:** [+91 9152400842](tel:+91 9152400842)   
 
 
 ⭐️ *If you like my work, consider giving a star to my repositories!* ⭐️
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-Check above I have created
