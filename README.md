@@ -107,7 +107,7 @@ A secure online voting system with real-time monitoring and admin controls.
 - 🌐 [Portfolio Website](https://bedrekarportfolio.netlify.app/)  
 - 🐙 [GitHub Profile](https://github.com/muzammilab)
 - 📧 **Email:** [muzammilaslambedrekar@gmail.com](mailto:muzammilaslambedrekar@gmail.com)  
-- 📱 **Mobile:** [+91 9152400842](tel:+91 9152400842)   
+- 📱 **Mobile:** [+91 9152400842]  
 
 
 ⭐️ *If you like my work, consider giving a star to my repositories!* ⭐️
